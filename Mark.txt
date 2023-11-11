@@ -1,1 +1,2 @@
-Cecei est un fichier test de Git
+Ceci est un fichier test de Git.
+Je corrige le fichier
